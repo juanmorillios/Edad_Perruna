@@ -295,6 +295,7 @@
 				8711F3301D4525C80085C82B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
